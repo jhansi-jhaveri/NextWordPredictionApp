@@ -1,0 +1,12 @@
+name: NextWordPredictionApp
+title: NextWordPredictionApp
+username: jhansi-jhaveri
+account: jhansi-jhaveri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14939673
+bundleId: 10461457
+url: https://jhansi-jhaveri.shinyapps.io/NextWordPredictionApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
